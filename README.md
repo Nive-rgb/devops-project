@@ -17,19 +17,19 @@ This project demonstrates a CI/CD pipeline using GitHub, Jenkins, and Docker.
 ## Screenshots
 
 ### GitHub Repository
-![Github Repository](./Github repository.png)
+![GitHub Repository](Github repository.png)
 
 ### Jenkins Dashboard
-![Jenkins Dashboard](./jenkins dashboard.png)
+![Jenkins Dashboard](jenkins dashboard.png)
 
 ### Pipeline Steps
-![Pipeline Steps](./pipeline steps.png)
+![Pipeline Steps](pipeline steps.png)
 
 ### Docker Running
-![Docker Running](./Docker running.png)
+![Docker Running](Docker running.png)
 
 ### Browser Output
-![Browser Output](./browser output.png)
+![Browser Output](browser output.png)
 
 ## Result
 
